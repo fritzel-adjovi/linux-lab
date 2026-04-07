@@ -18,7 +18,7 @@ linux-lab/
 └── 10-permissions-speciales/ # SGID, SUID, Sticky Bit
 ```
 
-## 🔑 Compétences abordées
+##  Compétences abordées
 
 ### Administration système
 - Installation Ubuntu dans VirtualBox
@@ -42,7 +42,7 @@ linux-lab/
 - Permissions spéciales : **SGID**, **SUID**, **Sticky Bit**
 - Listes de contrôle d'accès (**ACL**)
 
-## 📋 Exercices réalisés
+##  Exercices réalisés
 
 | N° | Exercice | Outils |
 |----|----------|--------|
@@ -62,7 +62,7 @@ linux-lab/
 | 25 | Brute-force SSH + Fail2ban | Hydra, fail2ban |
 | 28-30 | Apache, DNS Bind9, MySQL | apache2, bind9, mysql |
 
-## 🚀 Commandes clés
+##  Commandes clés
 
 ```bash
 # Gestion des droits
